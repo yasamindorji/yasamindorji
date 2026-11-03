@@ -1,7 +1,7 @@
 ### Hi, I'm Yasamin 👋
 
-Urban and transport planner, currently an MSc student in the **EIT Urban Mobility Master School**
-(Sustainable Urban Mobility Transitions), IST Lisbon → UPC Barcelona.
+Urban and transport planner, currently pursuing a **Double Degree MSc** in the **EIT Urban Mobility Master School**
+(Sustainable Urban Mobility Transitions), IST Lisbon.
 
 - 🚆 Interests: sustainable urban mobility, intelligent transport systems, transport appraisal
 - 📊 Methods: multi-criteria decision analysis (CODAS, BWM, Shannon entropy), cost-benefit analysis, GIS
