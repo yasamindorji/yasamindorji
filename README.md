@@ -5,7 +5,7 @@ Urban and transport planner, currently pursuing a **Double Degree MSc** in the *
 
 - 🚆 Interests: sustainable urban mobility, intelligent transport systems, transport appraisal
 - 📊 Methods: multi-criteria decision analysis (CODAS, BWM, Shannon entropy), cost-benefit analysis, GIS
-- 🛠️ Tools: Python, R, Excel, QGIS
+- 🛠️ Tools: Python, R, Excel, QGIS, ArcGIS
 
 📫 [LinkedIn](https://www.linkedin.com/in/yasamin-dorji) ·
 [Google Scholar](https://scholar.google.com/citations?user=Bj5jfzYAAAAJ) ·
